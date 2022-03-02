@@ -6,3 +6,5 @@ novo arquivo
 enviando 
 a funcionalidade 
 x
+
+enviando a funcionalidade B
